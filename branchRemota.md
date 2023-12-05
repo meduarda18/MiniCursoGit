@@ -1,0 +1,1 @@
+Resumo: Branches de rastreamento remoto agem como marcadores para lembrá-lo de onde estavam as branches em seus repositórios remotos da última vez que você se conectou a eles. Eles assumem a forma (remoto)/(branch) .
