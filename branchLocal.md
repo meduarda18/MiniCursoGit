@@ -1,0 +1,3 @@
+Resumo: Como funciona um repositório local?
+
+Para criar um repositório local onde os comandos e iniciações são um pouco diferentes de um repositório remoto, é necessário iniciar o git caso tenha o mesmo instalado na máquina utilizando o comando "git init". Após iniciar o git, é necessário criar a branch com o comando "git checkout -b "nome da branch" para que consiga realizar as auterações nos códigos necessárias sem alterar o código geral da main. Feito isso, fazemos um "git add ." e logo depois um commit para comitar as atualizações feitas no repositório da branch criada, ,logo após é feito um "git status' que verifica os commits e branchs adicionadas e comitadas. 
